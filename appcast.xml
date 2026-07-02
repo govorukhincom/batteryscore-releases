@@ -3,13 +3,13 @@
     <channel>
         <title>batteryscore</title>
         <item>
-            <title>0.2.1</title>
-            <pubDate>Thu, 02 Jul 2026 22:48:22 +0300</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <title>0.2.2</title>
+            <pubDate>Thu, 02 Jul 2026 23:18:09 +0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/govorukhincom/batteryscore-releases/releases/download/v0.2.1/batteryscore-0.2.1.zip" length="1244802" type="application/octet-stream" sparkle:edSignature="5drt3mzZqgO+19tNoCYiiT5GELtXqnAuraZtfD0HyTxTkqFbYdGA5RwKwiQGgFmsjRqBIWs3FkbQhRSGo7HDAg=="/>
+            <enclosure url="https://github.com/govorukhincom/batteryscore-releases/releases/download/v0.2.2/batteryscore-0.2.2.zip" length="1244812" type="application/octet-stream" sparkle:edSignature="ZTksPbYSa7HrT65PbwJ1QdxG9Tw2WVANI71dWJVVQBlt9ActUjViTKX2ABLHASBJxn+aWWP9xF6VdP287KhbDQ=="/>
         </item>
     </channel>
 </rss>
