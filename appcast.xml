@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>batteryscore</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 02 Jul 2026 13:55:11 +0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/govorukhincom/batteryscore-releases/releases/download/v0.1.0/batteryscore-0.1.0.zip" length="1166603" type="application/octet-stream" sparkle:edSignature="5zIzk1dOMH1lg4EegLNILXxgSohVAbN0HlhefSZrcGxSNXRL9ybOQJALTxlkAABA4hRBZ9+B2JQITRK/Zj8cCw=="/>
+        </item>
+    </channel>
+</rss>
